@@ -1,0 +1,16 @@
+/mnt/Storage/Projects/netcore/c#book-code/cs-operators/bin/Debug/net5.0/cs-operators
+/mnt/Storage/Projects/netcore/c#book-code/cs-operators/bin/Debug/net5.0/cs-operators.deps.json
+/mnt/Storage/Projects/netcore/c#book-code/cs-operators/bin/Debug/net5.0/cs-operators.runtimeconfig.json
+/mnt/Storage/Projects/netcore/c#book-code/cs-operators/bin/Debug/net5.0/cs-operators.runtimeconfig.dev.json
+/mnt/Storage/Projects/netcore/c#book-code/cs-operators/bin/Debug/net5.0/cs-operators.dll
+/mnt/Storage/Projects/netcore/c#book-code/cs-operators/bin/Debug/net5.0/ref/cs-operators.dll
+/mnt/Storage/Projects/netcore/c#book-code/cs-operators/bin/Debug/net5.0/cs-operators.pdb
+/mnt/Storage/Projects/netcore/c#book-code/cs-operators/obj/Debug/net5.0/cs-operators.csproj.AssemblyReference.cache
+/mnt/Storage/Projects/netcore/c#book-code/cs-operators/obj/Debug/net5.0/cs-operators.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/Storage/Projects/netcore/c#book-code/cs-operators/obj/Debug/net5.0/cs-operators.AssemblyInfoInputs.cache
+/mnt/Storage/Projects/netcore/c#book-code/cs-operators/obj/Debug/net5.0/cs-operators.AssemblyInfo.cs
+/mnt/Storage/Projects/netcore/c#book-code/cs-operators/obj/Debug/net5.0/cs-operators.csproj.CoreCompileInputs.cache
+/mnt/Storage/Projects/netcore/c#book-code/cs-operators/obj/Debug/net5.0/cs-operators.dll
+/mnt/Storage/Projects/netcore/c#book-code/cs-operators/obj/Debug/net5.0/ref/cs-operators.dll
+/mnt/Storage/Projects/netcore/c#book-code/cs-operators/obj/Debug/net5.0/cs-operators.pdb
+/mnt/Storage/Projects/netcore/c#book-code/cs-operators/obj/Debug/net5.0/cs-operators.genruntimeconfig.cache
